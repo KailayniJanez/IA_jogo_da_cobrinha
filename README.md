@@ -163,7 +163,7 @@ jupyter notebook jogo_cobrinha.ipynb
 1. Heurística vs Tamanho da Matriz
 - Testado para matrizes de 3×3 até 29×29
 - Atingiu 100% da pontuação máxima em matrizes ≤ 7×7
--Desempenho varia em matrizes maiores (limite de movimentos)
+- Desempenho varia em matrizes maiores (limite de movimentos)
 
 2. GA para Otimização de Movimentos
 - População inicial: 100 indivíduos (jogos completos)
