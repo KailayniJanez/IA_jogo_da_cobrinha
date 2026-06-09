@@ -1,0 +1,38 @@
+```gitignore
+# Notebooks
+.ipynb_checkpoints/
+*.ipynb~
+
+# Dados
+*.pth                     # Modelos treinados (pesos da rede)
+*.csv                     # Dados gerados
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Ambiente virtual
+venv/
+env/
+.env
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Mac
+.DS_Store
